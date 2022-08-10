@@ -2,17 +2,32 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+namespace niveles_de_poder
+{
+    //
+///<date>
+
+///</date>
+public class niveles_boost :MonoBehaviour
+{
+
+}
+
 public class Sonic_nivel_de_poder : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+
+}
+
+public static class Elegir_poder
+{
+    struct poderes_de_sonic
     {
-        
+
     }
 
-    // Update is called once per frame
-    void Update()
+    struct poderes_de_jenny
     {
-        
+
     }
+}
 }
